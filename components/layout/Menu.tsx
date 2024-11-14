@@ -9,7 +9,7 @@ export default function Menu() {
 
   return (
     <div className="background-light900_dark200 overflow-hidden rounded-xl border">
-      <ul className="rounded-lg text-center text-sm font-medium text-gray-500 shadow dark:divide-gray-700 dark:text-gray-400 sm:flex">
+      <ul className="flex flex-row rounded-lg text-center text-sm font-medium text-gray-500 shadow dark:divide-gray-700 dark:text-gray-400">
         <li className="w-full">
           <Link
             href="/"

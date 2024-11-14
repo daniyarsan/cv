@@ -7,7 +7,6 @@ export default function Home() {
       <div className="background-light900_dark200 rounded-xl">
         <div className="mt-2 flex flex-col gap-2 p-2">
           <div className="background-light800_dark300 flex flex-row gap-4 rounded-lg p-4">
-            <div className=""></div>
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">File exchange platform</h3>

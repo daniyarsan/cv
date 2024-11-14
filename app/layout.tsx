@@ -11,9 +11,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "DevFlow",
+  title: "Daniyar Akylbekov",
   description:
-    "A community-driven platform for asking and answering programming questions. Get help, share knowledge, and collaborate with developers from around the world. Explore topics in web development, mobile app development, algorithms, data structures, and more.",
+    "Full-stack developer with 8+ years of experience in building web apps. Skilled in React, Next.js, Node.js, PHP (Laravel), Python,and SQL.",
   icons: {
     icon: "/assets/images/site-logo.svg",
   },

@@ -65,7 +65,7 @@ export default function Sidebar() {
               })}
             </div>
 
-            <Link href="/cv.pdf">
+            <Link href="/cv1.pdf">
               <Button className="min-h-[46px] bg-blue-700 px-3 py-4 !text-light-900">
                 Download CV
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">

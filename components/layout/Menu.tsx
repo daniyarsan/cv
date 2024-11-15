@@ -15,7 +15,7 @@ export default function Menu() {
             href="/"
             className={cn(
               "inline-block w-full border-r border-gray-200  p-4  focus:outline-none focus:ring-4 focus:ring-blue-300 dark:border-gray-700 dark:bg-gray-700 dark:text-white",
-              pathname === "/" && "bg-gray-100 text-gray-900",
+              pathname !== "/" && "bg-gray-100 text-gray-900",
             )}
           >
             Resume
@@ -26,7 +26,7 @@ export default function Menu() {
             href="/projects"
             className={cn(
               "inline-block w-full border-r border-gray-200 bg-white p-4 hover:bg-gray-50 hover:text-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white",
-              pathname === "/projects" && "bg-gray-100 text-gray-900",
+              pathname !== "/projects" && "bg-gray-100 text-gray-900",
             )}
           >
             Projects

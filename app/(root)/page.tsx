@@ -48,9 +48,8 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-dark500_light600 mt-4 text-sm">
-                JobBoard, WebSites and application development | (PHP, Laravel,
-                Symfony, React, Next.js, Alpine.js, Tailwind, Bootstrap,
-                Smartjobboard, HTML, CSS, JS)
+                GIS system development. Frontend and Backend | (PHP, Symfony5,
+                Angular/js, HTML, CSS, JS)
               </p>
             </div>
           </div>
@@ -123,6 +122,42 @@ export default function Home() {
               <p className="text-dark500_light600 mt-4 text-sm">
                 Feature Development, Tech Support | (Wordpress, PHP, HTML, CSS,
                 JS, MySql, jQuery)
+              </p>
+            </div>
+          </div>
+
+          <div className="background-light800_dark300 flex flex-row gap-4 rounded-lg p-4">
+            <Image
+              className="size-12 rounded-full"
+              width={44}
+              height={44}
+              src="/assets/images/sjb.jpeg"
+              alt="company"
+            />
+            <div className="w-full">
+              <div className="flex justify-between">
+                <h3 className="text-h3">Tech support / Developer</h3>
+                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                  Full-time
+                </span>
+              </div>
+              <div className="text-dark500_light600 mt-1 flex flex-wrap items-center gap-x-4 gap-y-2">
+                <div className="flex gap-1 ">
+                  <BriefcaseBusiness className="size-4" />
+                  <span className="text-xs">http://www.smartjobboard.com</span>
+                </div>
+                <div className="flex gap-1 ">
+                  <MapPin className="size-4" />
+                  <span className="text-xs">Kyrgizstan, Bishkek</span>
+                </div>
+                <div className="flex gap-1 ">
+                  <Calendar className="size-4" />
+                  <span className="text-xs">Feb 2012 – Nov 2014</span>
+                </div>
+              </div>
+              <p className="text-dark500_light600 mt-4 text-sm">
+                JobBoard, WebSites and feature Development, Tech Support |
+                (SmartJobBoard, PHP, HTML, CSS, JS, MySql, jQuery, SVN, JIRA)
               </p>
             </div>
           </div>

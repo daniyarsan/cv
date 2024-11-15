@@ -27,7 +27,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Full stack developer</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Full-time
                 </span>
               </div>
@@ -65,7 +65,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Full stack developer</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Full-time
                 </span>
               </div>
@@ -101,7 +101,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Web developer</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Full-time
                 </span>
               </div>
@@ -137,7 +137,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Tech support / Developer</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Full-time
                 </span>
               </div>
@@ -173,7 +173,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Tech support / Developer</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Full-time
                 </span>
               </div>
@@ -209,7 +209,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Quality Assurance Assistant</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Full-time
                 </span>
               </div>

@@ -10,7 +10,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">File exchange platform</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Done
                 </span>
               </div>
@@ -44,7 +44,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">HCEN application form</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Done
                 </span>
               </div>
@@ -80,7 +80,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Lane Jordan</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Done
                 </span>
               </div>
@@ -117,7 +117,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">JSC Healthcare</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Done
                 </span>
               </div>
@@ -154,7 +154,7 @@ export default function Home() {
                 <h3 className="text-h3">
                   HealthCare Traveler Network platform
                 </h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Done
                 </span>
               </div>
@@ -193,7 +193,7 @@ export default function Home() {
             <div className="w-full">
               <div className="flex justify-between">
                 <h3 className="text-h3">Eurojobs</h3>
-                <span className="text-tags bg-tags inline-flex rounded-md px-2 py-1 text-xs">
+                <span className="text-dark500_light600 bg-tags inline-flex rounded-md px-2 py-1 text-xs">
                   Done
                 </span>
               </div>

@@ -44,7 +44,7 @@ export default function Home() {
                 </div>
                 <div className="flex gap-1 ">
                   <Calendar className="size-4" />
-                  <span className="text-xs">Jan 2022 – Aug 2022</span>
+                  <span className="text-xs">Jan 2022 – Aug 2022 </span>
                 </div>
               </div>
               <p className="text-dark500_light600 mt-4 text-sm">

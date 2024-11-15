@@ -40,7 +40,7 @@ export default function Home() {
                 </div>
                 <div className="flex gap-1 ">
                   <MapPin className="size-4" />
-                  <span className="text-xs">Kyrgizstan, Bishkek</span>
+                  <span className="text-xs">Australia, Sydney</span>
                 </div>
                 <div className="flex gap-1 ">
                   <Calendar className="size-4" />
